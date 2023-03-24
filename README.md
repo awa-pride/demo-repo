@@ -1,3 +1,3 @@
 # demo-repo
 Practice Demo
-subcribtion 
+student learnig!
